@@ -1,0 +1,25 @@
+# arisia.language Model X
+'use python'
+
+  for i in range(1, 100, 1):
+    print(i)
+
+'use arisia'
+repeat(1~100 1 data).draw(data)
+repeat(1~100 1).draw()
+반복(1~100 1 변수).출력(변수)
+반복(1~100 1).출력()
+
+# ai process endder
+# chage binary + code change
+# repeat[loader1]
+
+# create server
+서버(타입="API", 포트="12254")
+server(type="api", port="12254")
+
+
+
+
+
+  
